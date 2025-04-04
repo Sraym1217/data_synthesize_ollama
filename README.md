@@ -1,4 +1,4 @@
-# Ollama API 利用ガイド
+# data synthesize ollama 
 
 このドキュメントでは、Macで動作するOllamaを使用してLLMを呼び出すPythonスクリプトの仕様と使い方について説明します。
 
